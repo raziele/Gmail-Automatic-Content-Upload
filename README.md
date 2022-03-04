@@ -36,6 +36,10 @@ To set up the script to run automatically:
 9) Change the "Select event source", "Select type of time based trigger" and "Select hour interval" according to your needs. Leave everything else unchanged. 
 10) Click "Save".
 
+## Bonus: send a message on Telegram
+sendTelegramMessage.gs allows you to send messages through telegram.
+To use it, follow the instruction on Telegram website to get API credentials and chat ID.
+
 ## Limitations
 
 - The script support only links that don't require login
